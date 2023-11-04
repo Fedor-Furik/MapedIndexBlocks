@@ -1,0 +1,16 @@
+.card_container{
+    margin-bottom: 10px;
+    background-color: white;
+    width: 24%;
+    border-radius: 25px;
+    padding: 20px;
+    border: solid 1px black;
+    margin: 0 auto;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card_title{
+    display: flex;
+    justify-content: center;
+}
